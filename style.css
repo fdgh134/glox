@@ -5,8 +5,7 @@ body {
 iframe{
   width: 100%;
   max-width: 767px;
-  max-height: 431px;
-  min-height: 240px;
+  height: 431px;
 }
 @media (min-width: 992px ) and (min-width: 1200px ) {
   body {
