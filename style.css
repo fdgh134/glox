@@ -5,7 +5,7 @@ body {
 iframe{
   width: 100%;
   max-width: 767px;
-  height: 431px;
+
 }
 @media (min-width: 992px ) and (min-width: 1200px ) {
   body {
@@ -17,7 +17,9 @@ iframe{
     text-align: center;
     margin: 0 auto;
   }
-
+  iframe{
+    height: 431px;
+  }
 }
 
 
@@ -37,6 +39,9 @@ iframe{
     margin: 0 auto;
 
   }
+  iframe{
+    height: 230px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -54,5 +59,8 @@ iframe{
     width:100%;
     margin: 0 auto;
     margin-top: -4px;
+  }
+  iframe{
+    height: 230px;
   }
 }
