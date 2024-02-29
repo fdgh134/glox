@@ -6,6 +6,9 @@ iframe{
   width: 100%;
   max-width: 767px;
 }
+.topgif{
+  margin-bottom: 100px;
+}
 @media (min-width: 992px ) and (min-width: 1200px ) {
   body {
     width: 100%;
