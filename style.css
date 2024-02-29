@@ -44,6 +44,9 @@ iframe{
   iframe{
     height: 230px;
   }
+  .topgif{
+    margin-bottom: 50px !important;
+  }
 }
 
 @media (max-width: 575px) {
@@ -64,5 +67,8 @@ iframe{
   }
   iframe{
     height: 230px;
+  }
+  .topgif{
+    margin-bottom: 50px !important;
   }
 }
